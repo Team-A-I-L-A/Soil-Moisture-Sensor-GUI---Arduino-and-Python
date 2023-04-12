@@ -1,10 +1,14 @@
 # Soil Moisture Sensor GUI - Arduino and Python 💧
 A graphical user interface that updates in real time based on the percentage of moisture captured by a soil moisture sensor.
 
-## Authors 👤
+## Lead Engineers 👤
 **Luis Ángel Sánchez Aguilar** -> Code and electronic design
 
 * [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+
+**Roger Aldo Acosta Baltodano** -> Code design
+
+* [LinkedIn](https://www.linkedin.com/in/roger-aldo-acosta-baltodano/)
 
 **Valeria Nicole Rodríguez Ponce** -> Electronic design and implementation
 
@@ -27,4 +31,4 @@ A graphical user interface that updates in real time based on the percentage of 
 ![image](https://user-images.githubusercontent.com/118120048/203218604-a3486eda-7499-4b33-842d-bea3d32839b2.png)
 
 ## Hiring 🤝🏿
-If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
+If you wish to hire me, please contact me at the following e-mail address: t3.aila.dev@gmail.com
