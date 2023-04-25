@@ -10,9 +10,6 @@ A graphical user interface that updates in real time based on the percentage of 
 
 * [LinkedIn](https://www.linkedin.com/in/roger-aldo-acosta-baltodano/)
 
-**Valeria Nicole Rodríguez Ponce** -> Electronic design and implementation
-
-* [LinkedIn](https://www.linkedin.com/in/valeriarodriguezp/)
 
 ## Folders description 📁
 
